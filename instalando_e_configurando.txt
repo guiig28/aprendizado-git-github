@@ -1,0 +1,7 @@
+Para instalar o git no seu computador, você deve seguir as instruções 
+no seguinte site: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git?_gl=1*am0f9a*_ga*MjA4MzI2Nzg5Mi4xNjc1NzkzMDMw*_ga_37GXT4VGQK*MTY3NjM5NjM0NS4xNy4xLjE2NzYzOTcxODguMC4wLjA., 
+de acordo com o sistema operacional de sua máquina.
+
+Após a instalação, você deverá configurar o git. Para configurar su nome no
+git, basta digitar no terminal o seguinte comando: git config --global user.name "seu nome".
+Para configuar seu email, digite: git config --global user.email "seu email"

@@ -1,0 +1,3 @@
+Branchs são ramificações do projeto principal, servindo de cópias para que cada desenvolvedor 
+envolvido no projeto trabalhe na sua parte de forma independente, e possibilitando fundir as 
+branchs ao projeto principal ao final.

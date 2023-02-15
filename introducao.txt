@@ -1,0 +1,7 @@
+Git é uma ferramenta que permite controlar versões de um
+arquivo, permitindo desenvolver e atualizar um projeto de 
+forma colaborativa com outros desenvolvedores.
+
+O Github é uma plataforma que permite hospedar e compartilhar 
+projetos git, facilitando o desenvolvimento compartilhando e 
+podendo servir até de portifólio

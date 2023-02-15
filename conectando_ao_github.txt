@@ -1,0 +1,14 @@
+O github é uma plataforma de hospedagem de projetos git, sendo projetos privados ou 
+projetos open source.
+
+Ao criar uma conta gratuitamente no site, é possivel tanto clonar projetos open source ou os 
+quais você ja está trabalhando, quanto hospedar os sewus proprios projetos.
+
+Para clonar um projeto para seu computador, basta acessar a pagina do projeto escolhido no github 
+e acessar a aba "Clone". Por lá, você pode tanto baixar o arquivo .zip e extrair direto no seu 
+repositório, quanto baixar via git utilizando o comando "git clone " e colar o link da página.
+
+Para hospedar o seu projeto, basta acessar a aba de repositorie e clicar em new. Após criar um 
+título e um arquivo README, basta conectar o seu repositório do pc com o do github com o comando
+"gir remote add origin " e colar o link do repositório do github e, após conectar, subir o projeto
+com o comando "git push origin master" 

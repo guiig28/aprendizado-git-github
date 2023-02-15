@@ -1,0 +1,17 @@
+- git init: inicializa um novo repositório git no diretório
+
+- git clone: cria uma cópia de um repositório de alguma plataforma online q o disponibiliza
+para você trabalhar na sua máquina
+
+- git status: mostra quais arquivos ja estão ou nao no diretório de trabalho, ou se ja estão ou não comitados
+para o repositório da versão final do projeto
+
+- git add: adiciona o arquivo selecionado pro diretório de trabalho
+
+- git commit -m: comita os arquivos selecionados que ja estão no diretório de trabalho para o repositório da 
+versão final do projeto
+
+- git branch: cria uma nova ramificação para o projeto, possibilitando ser desenvolvido por 
+varios desenvolvedores simultaneamente
+
+- git checkout: acessa a ramificação escolhida
